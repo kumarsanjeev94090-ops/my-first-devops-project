@@ -14,4 +14,4 @@ echo "Today's Date:"
 date
 
 echo "System Information:"
-uname -a
+uname -a 
